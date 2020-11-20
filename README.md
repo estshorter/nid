@@ -1,4 +1,4 @@
-# Nonholonomic Control using Near-identity diffeomorphisms
+# Nonholonomic control using near-identity diffeomorphisms
 This repository provides Python implementation of nonholonomic control using near-identity diffeomorphisms (NIRs) for two wheel robots.
 Only &epsilon;-stabilization contol is provided.
 
